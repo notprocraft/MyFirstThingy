@@ -1,2 +1,3 @@
-# MyFirstThingy
-Mt first repository
+Hello
+
+I find :Malina:, :most animals:, and :nature: beautiful.
